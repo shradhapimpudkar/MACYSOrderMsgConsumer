@@ -20,7 +20,7 @@ management:
     port: 9090
   endpoints: 
      web:
-       base-path: "/macys-usecase-monitor"
+       base-path: "/macys-usecase-actuator"
        exposure:
          include: "*"
   endpoint:
